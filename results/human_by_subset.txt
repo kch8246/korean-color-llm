@@ -1,0 +1,53 @@
+items 50
+--- human acc/tau by subset (all 12)
+                          mean  count
+subset           typ                 
+S1a_vowel        choice  1.000     24
+S1b_fortis       choice  1.000     48
+S1c_affix_rank   rank    0.977     72
+S1e_nonce_vowel  choice  0.990     96
+S1f_cue_conflict choice  0.000     48
+S1g_rank5        rank    0.850     24
+S3a_referent     choice  0.651    192
+S3b_lexical_trap choice  0.833     72
+S4_idiom         choice  1.000     12
+S4b_hard_idiom   choice  0.833     12
+--- excluding 3 speed-flagged respondents (n=9)
+subset            typ   
+S1a_vowel         choice    1.000
+S1b_fortis        choice    1.000
+S1c_affix_rank    rank      0.969
+S1e_nonce_vowel   choice    0.986
+S1f_cue_conflict  choice    0.000
+S1g_rank5         rank      0.833
+S3a_referent      choice    0.674
+S3b_lexical_trap  choice    0.852
+S4_idiom          choice    1.000
+S4b_hard_idiom    choice    0.778
+--- per respondent acc (choice items)
+rid
+35ce7d    0.595
+722a68    0.595
+aae1bd    0.714
+278479    0.714
+6f4aea    0.738
+d9aa2f    0.738
+b50c53    0.762
+f2b26a    0.762
+892975    0.786
+da2aa1    0.786
+3c860b    0.833
+a4e3ed    0.881
+--- model mean by subset (choice acc / rank tau)
+                    acc    tau
+subset                        
+S1a_vowel         1.000    NaN
+S1b_fortis        0.950    NaN
+S1c_affix_rank    0.933  0.967
+S1e_nonce_vowel   0.987    NaN
+S1f_cue_conflict    NaN    NaN
+S1g_rank5         0.250  0.820
+S3a_referent      0.794    NaN
+S3b_lexical_trap  0.983    NaN
+S4_idiom          1.000    NaN
+S4b_hard_idiom    1.000    NaN

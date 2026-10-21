@@ -1,0 +1,53 @@
+제외(오류·파싱실패) 호출 11 / 분석 호출 1913
+전체(rep1-6) hyper 0.781 nohyper 0.998 하락 모델 9 상승 0
+variant  hyper  nohyper
+rep                    
+1        0.794    1.000
+2        0.769    1.000
+3        0.792    1.000
+4        0.806    0.988
+5        0.785    1.000
+6        0.738    1.000
+rep 1 하락 모델 8 상승 0
+rep 2 하락 모델 9 상승 0
+rep 3 하락 모델 8 상승 0
+rep 4 하락 모델 8 상승 0
+rep 5 하락 모델 7 상승 0
+rep 6 하락 모델 7 상승 0
+                    mean           sum         count        
+variant            hyper nohyper hyper nohyper hyper nohyper
+model_label                                                 
+HCX-005            0.542   0.978  52.0    91.0    96      93
+HCX-007            0.667   1.000  64.0    96.0    96      96
+claude-haiku-5-5   0.979   1.000  94.0    96.0    96      96
+claude-sonnet-5-5  0.927   1.000  89.0    96.0    96      96
+deepseek-v4-pro    0.946   1.000  88.0    95.0    93      95
+gemini-3.8-flash   1.000   1.000  96.0    96.0    96      96
+gemma-4-31b-it     0.802   1.000  77.0    96.0    96      96
+gpt-4o             0.583   1.000  56.0    96.0    96      96
+gpt-5.4            0.688   1.000  66.0    96.0    96      96
+perplexity-sonar   0.677   1.000  65.0    96.0    96      96
+짝 불일치 205 0 p=3.9e-62
+hyper 조건 모델×문항 중 6회 답이 모두 같은 비율 0.694 (n=160)
+모델×문항 정답률 분포: 항상 정답 0.606, 항상 오답 0.087, 혼합 0.306
+                mean  count
+group_id                   
+balloonflower  0.373     59
+eggplant       0.500     60
+blood          0.567     60
+tangerine      0.667     60
+olive          0.667     60
+mugwort        0.733     60
+azalea         0.767     60
+mouse          0.833     60
+mustard        0.833     60
+chestnut       0.867     60
+apricot        0.900     60
+forsythia      0.900     60
+chocolate      0.914     58
+sky            0.967     60
+indigo         1.000     60
+sprout         1.000     60
+4문항 제외 hyper 0.829 nohyper 0.999 하락 모델 9 상승 0
+4문항 상위어 인정 hyper 0.871 nohyper 0.998 하락 모델 9 상승 0
+하락폭(nohyper-hyper) 문항 단위 평균 0.217, 95% bootstrap [0.135, 0.306]

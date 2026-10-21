@@ -1,0 +1,56 @@
+제외 호출 3 분석 1917
+새 16쌍(6회) hyper 0.669 nohyper 0.996 하락 모델 10 상승 0
+variant            hyper  nohyper
+model_label                      
+HCX-005            0.505    0.958
+HCX-007            0.573    1.000
+claude-haiku-5-5   0.823    1.000
+claude-sonnet-5-5  0.573    1.000
+deepseek-v4-pro    0.755    1.000
+gemini-3.8-flash   0.885    1.000
+gemma-4-31b-it     0.688    1.000
+gpt-4o             0.667    1.000
+gpt-5.4            0.552    1.000
+perplexity-sonar   0.667    1.000
+상위어 선택률 0.331
+               acc    hyp
+group_id                 
+carrot       0.017  0.983
+grape        0.233  0.767
+soil         0.233  0.767
+walnut       0.383  0.617
+greengrape   0.450  0.550
+lemon        0.467  0.533
+pea          0.600  0.400
+cherry       0.833  0.167
+redbean      0.850  0.150
+pomegranate  0.850  0.150
+lilac        0.881  0.119
+inkstick     0.931  0.069
+peach        0.983  0.017
+jade         1.000  0.000
+amber        1.000  0.000
+ivory        1.000  0.000
+6회 답 동일 비율 0.731
+항상정답 0.531 항상오답 0.200 혼합 0.269
+하락폭 0.326 [0.180, 0.487]
+rep 1 hyper 0.650 하락 10 상승 0
+rep 2 hyper 0.667 하락 10 상승 0
+rep 3 hyper 0.673 하락 10 상승 0
+rep 4 hyper 0.675 하락 10 상승 0
+rep 5 hyper 0.679 하락 10 상승 0
+rep 6 hyper 0.669 하락 10 상승 0
+통합 32쌍(6회) hyper 0.725 nohyper 0.997 하락 모델 10 상승 0
+variant            hyper  nohyper
+model_label                      
+HCX-005            0.524    0.968
+HCX-007            0.620    1.000
+claude-haiku-5-5   0.901    1.000
+claude-sonnet-5-5  0.750    1.000
+deepseek-v4-pro    0.850    1.000
+gemini-3.8-flash   0.943    1.000
+gemma-4-31b-it     0.745    1.000
+gpt-4o             0.625    1.000
+gpt-5.4            0.620    1.000
+perplexity-sonar   0.672    1.000
+통합 하락폭 0.272 [0.187, 0.365], 문항(쌍) 중 하락>0: 27/32, 0: 5, <0: 0

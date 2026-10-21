@@ -1,0 +1,25 @@
+no hypernym parsed: []
+        gold hyper  model_hyper_rate  human_hyper_rate  human_gold_rate  model_acc
+S3-001    밤색    갈색               0.1              0.50             0.50        0.9
+S3-003    쑥색   초록색               0.3              0.17             0.83        0.7
+S3-005   살구색   주황색               0.1              0.08             0.92        0.9
+S3-007    귤색   주황색               0.5              0.33             0.67        0.5
+S3-009   하늘색   파란색               0.0              0.42             0.58        1.0
+S3-011    쪽빛   파란색               0.0              0.25             0.75        1.0
+S3-013    핏빛   빨간색               0.3              0.33             0.67        0.7
+S3-015    쥐색    회색               0.2              0.08             0.92        0.8
+S3-027  개나리색   노란색               0.1              0.58             0.42        0.9
+S3-029  진달래색   분홍색               0.1              0.58             0.42        0.9
+S3-031   연두색   초록색               0.0              0.00             1.00        1.0
+S3-033   겨자색   노란색               0.2              0.33             0.67        0.8
+S3-035  도라지색   보라색               0.6              0.58             0.33        0.4
+S3-037  올리브색   초록색               0.1              0.42             0.58        0.9
+S3-039   가지색   보라색               0.6              0.58             0.42        0.4
+S3-041  초콜릿색    갈색               0.1              0.25             0.75        0.9
+mean model hyper rate 0.206  human 0.344
+Spearman item-level SignificanceResult(statistic=np.float64(0.2659983848350526), pvalue=np.float64(0.319358542557896))
+human acc (draft gold) 0.651 model acc 0.794
+consensus items ['S3-003', 'S3-005', 'S3-011', 'S3-015', 'S3-031', 'S3-041']
+consensus (pairs,plain,hyper,b,c,p): (60, np.float64(1.0), np.float64(0.8833333333333333), 7, 0, np.float64(0.015625))
+all 16: (160, np.float64(1.0), np.float64(0.79375), 33, 0, np.float64(2.3283064365386963e-10))
+non-consensus 10: (100, np.float64(1.0), np.float64(0.74), 26, 0, np.float64(2.9802322387695312e-08))
