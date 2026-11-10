@@ -25,11 +25,17 @@ BLUE, ORANGE = "#2a78d6", "#eb6834"
 CORE = ["claude-haiku-5-5", "gemini-3.8-flash", "claude-sonnet-5-5", "deepseek-v4-pro", "perplexity-sonar",
         "gemma-4-31b-it", "gpt-5.4", "HCX-007", "gpt-4o", "HCX-005"]
 SHORT = {"claude-haiku-5-5": "Claude Haiku 5.5", "claude-sonnet-5-5": "Claude Sonnet 5.5", "gemini-3.8-flash": "Gemini 3.8 Flash",
-         "deepseek-v4-pro": "DeepSeek V4 Pro", "perplexity-sonar": "Perplexity Sonar", "gemma-4-31b-it": "Gemma 4 31B",
+         "deepseek-v4-pro": "DeepSeek V4 Pro", "perplexity-sonar": "Perplexity Agent", "gemma-4-31b-it": "Gemma 4 31B",
          "gpt-5.4": "GPT-5.4", "HCX-007": "HCX-007", "gpt-4o": "GPT-4o", "HCX-005": "HCX-005"}
 
 s = pd.read_csv(scored)
 s = s[s.model_label.isin(CORE) | s.model_label.str.contains("websearch")]
+
+from decimal import Decimal, ROUND_HALF_UP
+def r2(v, plus=False):
+    """소수 둘째 자리 반올림(0.005는 올림). 파이썬 기본 반올림은 0.625를 0.62로 만든다."""
+    d = Decimal(repr(round(float(v), 10))).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+    return (("+" if d > 0 else "") if plus else "") + format(d, "f")
 
 def wilson(k, n, z=1.96):
     if n == 0: return (np.nan, np.nan)
@@ -67,7 +73,7 @@ for i in range(M.shape[0]):
     for j in range(M.shape[1]):
         v = M[i, j]
         if np.isnan(v): continue
-        ax.text(j, i, f"{v:.2f}".lstrip("0") if v < 1 else "1", ha="center", va="center", fontsize=6.8,
+        ax.text(j, i, r2(v).lstrip("0") if v < 1 else "1", ha="center", va="center", fontsize=6.8,
                 color="white" if v < 0.55 else INK, fontweight="bold" if v < 0.85 else "normal")
 ax.set_xticks(range(len(cols)))
 LAB = ["S1a\n모음 단서", "S1b\n된소리", "S1c\n접사 순위", "S1e\n무의미어", "S1g\n5단계 순위", "S3a\n상위어 無", "S3a\n상위어 有", "S3b\n어휘 함정", "S3c\n어원", "S4\n관용 표현"]
@@ -98,7 +104,7 @@ for m in ["gemma-4-31b-it", "claude-haiku-5-5", "gpt-5.4"]:
 mu = R.mean()
 ax.plot(x, mu.values, color=BLUE, lw=2.2, marker="o", ms=5, zorder=4)
 for xi, v in zip(x, mu.values):
-    ax.text(xi, v + 0.065, f"{v:.2f}", ha="center", fontsize=6.8, color=BLUE, fontweight="bold",
+    ax.text(xi, v + 0.065, r2(v), ha="center", fontsize=6.8, color=BLUE, fontweight="bold",
             bbox=dict(fc="white", ec="none", pad=0.6, alpha=0.85), zorder=6)
 ax.text(x[0] - 0.2, 0.92, "굵은 파란선 = 10개 모델 평균\n회색선 = 개별 모델", fontsize=6.3, color=MUT, va="top")
 ax.set_xticks(x); ax.set_xticklabels(clab, fontsize=6.8)
@@ -118,7 +124,7 @@ for i, m in enumerate(order):
     ax.plot([A.loc[m, "hyper"], A.loc[m, "nohyper"]], [i, i], color="#999999", lw=1.2, zorder=1)
     ax.scatter(A.loc[m, "nohyper"], i, s=26, marker="o", color=BLUE, edgecolor="white", lw=0.6, zorder=3)
     ax.scatter(A.loc[m, "hyper"], i, s=26, marker="s", color=ORANGE, edgecolor="white", lw=0.6, zorder=3)
-    ax.text(1.06, i, f"{A.loc[m,'hyper']-A.loc[m,'nohyper']:+.2f}", va="center", fontsize=6.5, color=INK)
+    ax.text(1.06, i, r2(A.loc[m,'hyper']-A.loc[m,'nohyper'], plus=True), va="center", fontsize=6.5, color=INK)
 ax.text(1.06, len(order) - 0.35, "차이", fontsize=6.5, color=MUT)
 ax.set_yticks(range(len(order))); ax.set_yticklabels([SHORT[m] for m in order], fontsize=7)
 ax.set_xlim(0.5, 1.03); ax.set_xticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0]); ax.set_xlabel("정답률", fontsize=7)
