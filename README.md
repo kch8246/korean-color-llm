@@ -9,6 +9,8 @@ Code and data for a master's thesis on how LLMs handle Korean color terms and ho
 - `code/` 실험 실행(`run_experiment.py`), 설문 생성·병합(`build_survey.py`, `merge_survey.py`), 문항 생성·분석 스크립트.
 - `surveys/` 모어 화자 설문(단일 HTML)과 설문용 문항 JSON.
 - `results/` 모델 응답 채점 결과(S3a 6회 반복, S3a 확장), 모어 화자 응답의 문항별 집계, 그림.
+  - 2026년 11월 보충 실험(전체 10개 모델, 31,144회 응답): `all_trials_scored_compact.csv`(응답 원문 없이 채점 결과만), `temp0_scored_compact.csv`(온도 0 점검), `search_log_summary.csv`(검색 질의·출처 요약), `supplement_result.txt`(아래 분석 스크립트의 출력, 논문 표 6·7·13·15 등과 대응).
+  - 분석·그림: `code/analyze_supplement.py`(위 CSV만으로 실행, 논문 수치 재현), `code/make_figures_supplement.py`(그림 4~6).
 
 ## 실행
 1. 필요한 패키지: Python 3.10+, `requests`, `pandas`, `scipy`.
@@ -17,9 +19,10 @@ Code and data for a master's thesis on how LLMs handle Korean color terms and ho
    - 본 실험 436문항(문항당 1회): `python code/run_experiment.py --all --core --reps 1`
    - S3a 확장 32문항(6회): `python code/run_experiment.py --all --ext --reps 6`
    - S3a 전체 반복 호출 등 일부만: `--items S3-027,S3-028 --reps 6`
-4. 분석 스크립트는 저장소 루트에서 실행하도록 상대 경로로 썼습니다. 모델 원 응답(`trials.jsonl`)과 응답자 개별 파일(`survey_in/`)이 필요한 스크립트(`analyze_final.py`, `analyze_human_*`, `make_figures.py`, `fig5.py`)는 해당 파일을 따로 두어야 실행됩니다.
+4. 보충 실험 결과는 원 응답 없이도 `python code/analyze_supplement.py`, `python code/make_figures_supplement.py`로 재현됩니다(`pandas`, `scipy`, `matplotlib`).
+5. 분석 스크립트는 저장소 루트에서 실행하도록 상대 경로로 썼습니다. 모델 원 응답(`trials.jsonl`)과 응답자 개별 파일(`survey_in/`)이 필요한 스크립트(`analyze_final.py`, `analyze_human_*`, `make_figures.py`, `fig5.py`)는 해당 파일을 따로 두어야 실행됩니다.
 
 ## 주의
 - 정답은 연구자가 정한 초안이며, 모어 화자 12명의 점검 결과는 논문 Ⅳ.10, Ⅳ.12에 있습니다.
-- 모델 원 응답 파일(`trials.jsonl`)과 응답자 개별 파일은 용량과 개인정보 때문에 포함하지 않았습니다.
+- 모델 원 응답 파일(`trials.jsonl`, 프롬프트·응답 원문 포함)과 응답자 개별 파일은 용량과 개인정보 때문에 포함하지 않았습니다.
 - 모델 버전과 서비스는 2026년 10월 기준입니다.

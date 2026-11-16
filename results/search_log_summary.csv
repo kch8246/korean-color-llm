@@ -1,0 +1,309 @@
+﻿trial_id,model_label,item_id,set_id,n_queries,query_chars,query_has_json_instruction,queries,n_results,result_hosts,n_citations
+gpt-4o+websearch|default|S8-027|7,gpt-4o+websearch,S8-027,S8,1,1253,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-064|7,gpt-4o+websearch,S8-064,S8,1,892,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-003|7,gpt-4o+websearch,S4-003,S4,1,920,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-029|7,gpt-4o+websearch,S8-029,S8,1,793,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-035|7,claude-sonnet-5-5+websearch,S4-035,S4,1,21,0,핑크빛 노을 의미 아침 노을 색채 표현,9,www.sciencetimes.co.kr;picks.my;www.a-ha.io;www.a-ha.io;www.a-ha.io;en.wikipedia.org;brunch.co.kr;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-009|7,gpt-4o+websearch,S8-009,S8,1,859,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-001|7,claude-sonnet-5-5+websearch,S8-001,S8,1,21,0,밤색 잘 익은 밤 겉껍질 색 이름 유래,9,ko.wikipedia.org;namu.wiki;wordrow.kr;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;en.wiktionary.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-048|7,gpt-4o+websearch,S3-048,S3,1,611,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-016|7,claude-sonnet-5-5+websearch,S3-016,S3,1,12,0,쥐색 뜻 표준국어대사전,9,www.almaany.com;dict.wordrow.kr;dict.wordrow.kr;wordrow.kr;wordrow.kr;namu.wiki;wordrow.kr;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-018|7,gpt-4o+websearch,S8-018,S8,1,896,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-063|7,claude-sonnet-5-5+websearch,S8-063,S8,1,16,0,다크 초콜릿 색 초콜릿색 갈색,9,ko.wikipedia.org;biz.heraldcorp.com;www.newsway.co.kr;www.esocialtimes.com;www.media.io;namu.wiki;www.a-ha.io;unsplash.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-055|7,claude-sonnet-5-5+websearch,S8-055,S8,1,10,0,올리브나무 잎 색깔,9,mytreelove.com;plants.im;critida.com;gogirifarm.org;jdm0777.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S3-047|7,claude-sonnet-5-5+websearch,S3-047,S3,1,25,0,은행나무 단풍 잎 색 노란색 이유 카로티노이드,9,www.etoday.co.kr;www.hankyung.com;www.vegannews.co.kr;m.cafe.daum.net;www.a-ha.io;www.a-ha.io;creation.kr;www.ncbi.nlm.nih.gov;image-ppubs.uspto.gov,0
+claude-sonnet-5-5+websearch|default|S8-023|7,claude-sonnet-5-5+websearch,S8-023,S8,1,11,0,쪽빛 쪽 염색 색 뜻,9,m.cafe.daum.net;50plus.or.kr;www.beopbo.com;en.wikipedia.org;www.a-ha.io;en.wikipedia.org;encykorea.aks.ac.kr;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-029|7,gpt-4o+websearch,S4-029,S4,1,977,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-009|7,claude-sonnet-5-5+websearch,S3-009,S3,1,24,0,맑은 날 낮 하늘 색 파란 이유 레일리 산란,9,v.daum.net;www.home-learn.co.kr;www.iworldtoday.com;www.uprtek.com;www.ibuan.com;www.gklibrarykor.com;jr.etnews.com;kimverick.com;thenewsmedical.co.kr,0
+gpt-4o+websearch|default|S3-032|7,gpt-4o+websearch,S3-032,S3,1,599,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-016|7,gpt-4o+websearch,S8-016,S8,1,865,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-007|7,claude-sonnet-5-5+websearch,S3-007,S3,1,12,0,귤색 뜻 표준국어대사전,10,en.wiktionary.org;thewiki.kr;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;wordrow.kr;dictionary.sensagent.com;ko.ichacha.net,0
+claude-sonnet-5-5+websearch|default|S8-022|7,claude-sonnet-5-5+websearch,S8-022,S8,1,9,0,쪽빛 쪽 염색 색,9,www.khs.go.kr;50plus.or.kr;www.chemidream.com;encykorea.aks.ac.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-044|7,gpt-4o+websearch,S8-044,S8,1,984,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-022|7,gpt-4o+websearch,S8-022,S8,1,901,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-049|7,claude-sonnet-5-5+websearch,S8-049,S8,1,17,0,도라지색 도라지꽃 빛깔 색 이름,9,brunch.co.kr;www.picturethisai.com;plants.im;www.thepatioyujin.com;www.news4000.com;m.saonde.com;en.wikipedia.org;encykorea.aks.ac.kr;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S3-013|7,claude-sonnet-5-5+websearch,S3-013,S3,1,21,0,사람 혈액 색깔 빨간색 헤모글로빈 산소,9,ko.wikipedia.org;www.sisunnews.co.kr;www.sisunnews.co.kr;www.seehint.com;www.a-ha.io;www.a-ha.io;www.a-ha.io;ko.fusedlearning.com;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-046|7,gpt-4o+websearch,S8-046,S8,1,869,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-002|7,claude-sonnet-5-5+websearch,S3-002,S3,1,16,0,밤색 뜻 잘 익은 밤 껍질 색,9,wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;ko.ichacha.net;en.wikipedia.org;stock.adobe.com,0
+claude-sonnet-5-5+websearch|default|S3-035|7,claude-sonnet-5-5+websearch,S3-035,S3,2,18,0,도라지꽃 색 보라색 도라지색 표준국어대사전 || 도라지색 뜻 표준국어대사전,18,ko.wikipedia.org;v.daum.net;www.picturethisai.com;www.thepatioyujin.com;plants.im;www.news4000.com;educalingo.com;educalingo.com;encykorea.aks.ac.kr;www.jbnews.com;m.cafe.daum.net;wordrow.kr;wordrow.kr;en.wikipedia.org;wordrow.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-020|7,gpt-4o+websearch,S3-020,S3,1,634,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-005|7,claude-sonnet-5-5+websearch,S4-005,S4,1,18,0,속이 검다 관용 표현 뜻 음흉하다,10,wordbook.daum.net;www.darakwon.co.kr;wordbook.daum.net;cyber.brentphone.kr;dict.wordrow.kr;hinative.com;wordrow.kr;wordrow.kr;namu.wiki;wordsisters.com,0
+gpt-4o+websearch|default|S4-019|7,gpt-4o+websearch,S4-019,S4,1,990,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-046|7,claude-sonnet-5-5+websearch,S8-046,S8,1,15,0,겨자색 겨자 가루 색 노란색,9,m.cafe.daum.net;pixabay.com;www.collinsdictionary.com;namu.wiki;namu.wiki;beautyhub.decorexpro.com;textile-ko.techinfus.com;fashionhub-ko.decorexpro.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-015|7,claude-sonnet-5-5+websearch,S3-015,S3,1,12,0,쥐색 뜻 쥐의 털 빛깔,9,emojipedia.org;ko.wikipedia.org;wordrow.kr;dict.wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;wordrow.kr;zetawiki.com,0
+claude-sonnet-5-5+websearch|default|S4-004|7,claude-sonnet-5-5+websearch,S4-004,S4,1,25,0,"""파랗게"" 뜻 색채 표현 하늘을 파랗게 칠했다",9,www.idaegu.com;www.uprtek.com;wordrow.kr;wordrow.kr;wordrow.kr;www.koreanstudyjunkie.com;brunch.co.kr;brunch.co.kr;r1.community.samsung.com,0
+claude-sonnet-5-5+websearch|default|S4-028|7,claude-sonnet-5-5+websearch,S4-028,S4,1,21,0,붉은 악마 응원단 한국 축구 국가대표팀,9,ko.wikipedia.org;ko.wikipedia.org;s1.ihalla.com;www.ftimes.kr;star.ohmynews.com;namu.wiki;m.news.nate.com;news.nate.com;encykorea.aks.ac.kr,0
+gpt-4o+websearch|default|S4-035|7,gpt-4o+websearch,S4-035,S4,1,888,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-014|7,gpt-4o+websearch,S4-014,S4,1,898,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-031|7,gpt-4o+websearch,S4-031,S4,1,1028,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-014|7,claude-sonnet-5-5+websearch,S4-014,S4,1,14,0,눈앞이 캄캄하다 뜻 관용구,9,wordbook.daum.net;wordbook.daum.net;dict.youdao.com;wordrow.kr;hinative.com;www.hilokal.com;organickorean.com;brunch.co.kr;hinative.com,0
+gpt-4o+websearch|default|S8-002|7,gpt-4o+websearch,S8-002,S8,1,861,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-020|7,claude-sonnet-5-5+websearch,S3-020,S3,1,17,0,밤하늘 색 남색 야간 하늘 색깔,9,ko.wikipedia.org;www.ohmynews.com;www.lecturernews.com;en.wiktionary.org;namu.wiki;en.wikipedia.org;www.a-ha.io;en.wikipedia.org;brunch.co.kr,0
+claude-sonnet-5-5+websearch|default|S8-044|7,claude-sonnet-5-5+websearch,S8-044,S8,1,10,0,연두색 뜻 새싹 색,9,v.daum.net;dict.youdao.com;www.incheonin.com;www.lecturernews.com;www.jnilbo.com;en.wiktionary.org;www.jeonmae.co.kr;wordrow.kr;namu.wiki,0
+claude-sonnet-5-5+websearch|default|S3-034|7,claude-sonnet-5-5+websearch,S3-034,S3,1,14,0,겨자색 겨자 가루 색 정의,9,blog.daum.net;m.cafe.daum.net;www.collinsdictionary.com;namu.wiki;en.wiktionary.org;namu.wiki;namu.wiki;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-054|7,gpt-4o+websearch,S8-054,S8,1,896,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-013|7,gpt-4o+websearch,S4-013,S4,1,883,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-027|7,claude-sonnet-5-5+websearch,S8-027,S8,1,17,0,사람 혈액 색 빨간색 헤모글로빈,9,ko.wikipedia.org;www.sisunnews.co.kr;www.sisunnews.co.kr;namu.wiki;www.a-ha.io;www.a-ha.io;ko.fusedlearning.com;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-042|7,claude-sonnet-5-5+websearch,S3-042,S3,1,16,0,다크 초콜릿 색 초콜릿색 갈색,9,ko.wikipedia.org;biz.heraldcorp.com;www.newsway.co.kr;www.esocialtimes.com;wordrow.kr;www.media.io;namu.wiki;unsplash.com;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-049|7,gpt-4o+websearch,S3-049,S3,1,617,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-032|7,claude-sonnet-5-5+websearch,S4-032,S4,1,23,0,회색 지대 뜻 법적으로 합법과 불법 불분명,9,www.asiae.co.kr;www.m-i.kr;www.doctorstimes.com;ozvoca.com;namu.wiki;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;m.boannews.com,0
+gpt-4o+websearch|default|S4-006|7,gpt-4o+websearch,S4-006,S4,1,919,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-007|7,claude-sonnet-5-5+websearch,S8-007,S8,1,12,0,쑥 잎 색 초록색 쑥색,9,ko.wikipedia.org;m.cafe.daum.net;wordrow.kr;www.naturing.net;www.knyhnews.co.kr;www.picturethisai.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-001|7,gpt-4o+websearch,S4-001,S4,1,983,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-032|7,gpt-4o+websearch,S4-032,S4,1,916,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-038|7,claude-sonnet-5-5+websearch,S3-038,S3,1,10,0,올리브나무 잎 색깔,9,mytreelove.com;plants.im;critida.com;gogirifarm.org;jdm0777.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-034|7,gpt-4o+websearch,S3-034,S3,1,586,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-011|7,gpt-4o+websearch,S4-011,S4,1,896,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-005|7,claude-sonnet-5-5+websearch,S3-005,S3,1,16,0,잘 익은 살구 열매 색 주황색,9,brunch.co.kr;m.cafe.daum.net;www.naturing.net;namu.wiki;stock.adobe.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-002|7,gpt-4o+websearch,S3-002,S3,1,584,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-024|7,gpt-4o+websearch,S4-024,S4,1,933,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-045|7,claude-sonnet-5-5+websearch,S3-045,S3,1,20,0,노을 색 주황색 일몰 하늘 붉은 이유,9,www.asiae.co.kr;www.inhapress.com;www.civicnews.com;color.re.kr;picks.my;www.a-ha.io;www.a-ha.io;www.a-ha.io;www.a-ha.io,0
+claude-sonnet-5-5+websearch|default|S4-012|7,claude-sonnet-5-5+websearch,S4-012,S4,1,17,0,눈을 시퍼렇게 뜨고 있는 한 뜻,9,krdict.korean.go.kr;namu.wiki;ko.hinative.com;wordrow.kr;hinative.com;en.wikipedia.org;brainscape.com;m.boannews.com;m.boannews.com,0
+gpt-4o+websearch|default|S8-059|7,gpt-4o+websearch,S8-059,S8,1,1263,1,(프롬프트 전체),0,,1
+gpt-4o+websearch|default|S3-037|7,gpt-4o+websearch,S3-037,S3,1,584,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-018|7,claude-sonnet-5-5+websearch,S3-018,S3,1,15,0,잘 익은 감 껍질 색 주황색,9,brunch.co.kr;www.ohmynews.com;www.mindlenews.com;lady.khan.co.kr;www.koya-culture.com;wordrow.kr;www.nongmin.com;krdict.korean.go.kr;www.sano.co.kr,0
+gpt-4o+websearch|default|S0-002|7,gpt-4o+websearch,S0-002,S0,1,245,0,(프롬프트 전체),0,,3
+gpt-4o+websearch|default|S8-060|7,gpt-4o+websearch,S8-060,S8,1,959,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-021|7,claude-sonnet-5-5+websearch,S4-021,S4,1,18,0,청사진 뜻 비유적 의미 미래 계획,9,tip.daum.net;ko.wikipedia.org;wordrow.kr;namu.wiki;wordrow.kr;han.1dream.kr;brunch.co.kr;stock.adobe.com;stock.adobe.com,0
+gpt-4o+websearch|default|S8-017|7,gpt-4o+websearch,S8-017,S8,1,838,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-043|7,gpt-4o+websearch,S8-043,S8,1,1293,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-048|7,claude-sonnet-5-5+websearch,S8-048,S8,1,21,0,겨자씨 간 겨자 가루 색 노란색 겨자색,9,ko.wikipedia.org;m.cafe.daum.net;namu.wiki;www.thedreamtogether.com;namu.wiki;namu.wiki;getfoodhealth.com;www.threads.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-033|7,claude-sonnet-5-5+websearch,S3-033,S3,1,20,0,겨자 가루 색 겨자씨 간 가루 노란색,9,ko.wikipedia.org;m.cafe.daum.net;www.domin.co.kr;namu.wiki;namu.wiki;namu.wiki;www.threads.com;jdm0777.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-053|7,claude-sonnet-5-5+websearch,S8-053,S8,1,17,0,올리브색 올리브나무 잎 색 이름,9,m.cafe.daum.net;thewiki.kr;m.cafe.daum.net;plants.im;www.hortitimes.com;gogirifarm.org;critida.com;jdm0777.com;unsplash.com,0
+gpt-4o+websearch|default|S8-037|7,gpt-4o+websearch,S8-037,S8,1,904,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-061|7,claude-sonnet-5-5+websearch,S8-061,S8,1,26,0,초콜릿색 다크 초콜릿 어둡고 깊은 갈색 색 이름,9,creazilla.com;langeek.co;www.media.io;en.wikipedia.org;unsplash.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S4-019|7,claude-sonnet-5-5+websearch,S4-019,S4,1,12,0,흑막 뜻 표준국어대사전,9,wordrow.kr;wordrow.kr;namu.wiki;wordrow.kr;wordrow.kr;wordrow.kr;namu.wiki;namu.wiki;namu.moe,0
+gpt-4o+websearch|default|S3-013|7,gpt-4o+websearch,S3-013,S3,1,568,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-039|7,gpt-4o+websearch,S8-039,S8,1,1287,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-003|7,claude-sonnet-5-5+websearch,S8-003,S8,1,14,0,밤색 뜻 밤 껍질 색 갈색,9,ko.wikipedia.org;color.adobe.com;wordrow.kr;namu.wiki;thewiki.kr;namu.wiki;wordrow.kr;namu.wiki;hinative.com,0
+claude-sonnet-5-5+websearch|default|S3-040|7,claude-sonnet-5-5+websearch,S3-040,S3,1,21,0,가지색 뜻 표준국어대사전 가지 껍질 색,9,jirisaneum.org;wordrow.kr;www.wikifoodie.co.kr;dict.wordrow.kr;dict.wordrow.kr;wordrow.kr;thewiki.kr;namu.wiki;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-023|7,gpt-4o+websearch,S8-023,S8,1,1250,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-043|7,claude-sonnet-5-5+websearch,S8-043,S8,1,14,0,갓 돋아난 새싹 색 연두색,9,m.cafe.daum.net;brunch.co.kr;www.lecturernews.com;emojipedia.org;namu.wiki;saphoto.net;colorhub.kr;brunch.co.kr;brunch.co.kr,0
+claude-sonnet-5-5+websearch|default|S3-023|7,claude-sonnet-5-5+websearch,S3-023,S3,1,15,0,갈색 褐色 어원 갈 한자 褐,10,ko.wiktionary.org;ko.wiktionary.org;namu.wiki;wordrow.kr;namu.wiki;nihongokanji.com;hanjaschool.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-034|7,gpt-4o+websearch,S8-034,S8,1,862,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-019|7,gpt-4o+websearch,S3-019,S3,1,628,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-025|7,gpt-4o+websearch,S4-025,S4,1,895,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-030|7,claude-sonnet-5-5+websearch,S4-030,S4,1,19,0,블루오션 뜻 경쟁 없는 새로운 시장,9,brunch.co.kr;brunch.co.kr;www.laborplus.co.kr;namu.wiki;nanumcon.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-018|7,gpt-4o+websearch,S3-018,S3,1,588,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-033|7,gpt-4o+websearch,S4-033,S4,1,957,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-049|7,gpt-4o+websearch,S8-049,S8,1,878,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-024|7,claude-sonnet-5-5+websearch,S4-024,S4,1,13,0,기분이 블루하다 뜻 우울,9,ppss.kr;www.nhimc.or.kr;www.khan.co.kr;www.psychiatricnews.net;m.cafe.daum.net;blog-ko.engram.us;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-018|7,claude-sonnet-5-5+websearch,S8-018,S8,1,23,0,맑은 날 낮 하늘 파란색 이유 레일리 산란,9,v.daum.net;serc.snu.ac.kr;www.home-learn.co.kr;www.iworldtoday.com;www.ibuan.com;jr.etnews.com;kimverick.com;thenewsmedical.co.kr;en.wikipedia.org,1
+gpt-4o+websearch|default|S8-031|7,gpt-4o+websearch,S8-031,S8,1,1109,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-035|7,gpt-4o+websearch,S8-035,S8,1,1290,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-005|7,gpt-4o+websearch,S8-005,S8,1,869,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-013|7,claude-sonnet-5-5+websearch,S8-013,S8,1,18,0,귤색 잘 익은 귤 껍질 주황빛 색,9,v.daum.net;www.wikitree.co.kr;thewiki.kr;namu.wiki;namu.wiki;namu.wiki;namu.mirror.wiki;www.orenlife.com;ko.ichacha.net,0
+gpt-4o+websearch|default|S3-041|7,gpt-4o+websearch,S3-041,S3,1,604,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-021|7,gpt-4o+websearch,S8-021,S8,1,883,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-043|7,gpt-4o+websearch,S3-043,S3,1,645,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-034|7,claude-sonnet-5-5+websearch,S4-034,S4,1,8,0,핑크빛 기류 뜻,9,v.daum.net;namu.wiki;ko.hinative.com;wordrow.kr;hinative.com;www.justwatch.com;justwatch.com;jobcannon.io;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S8-009|7,claude-sonnet-5-5+websearch,S8-009,S8,1,26,0,살구색 뜻 잘 익은 살구 열매 빛깔 연한 주황색,9,ko.wikipedia.org;www.yongin21.co.kr;ko.wiktionary.org;thewiki.kr;namu.wiki;namu.wiki;namu.wiki;namu.wiki;namu.wiki,0
+claude-sonnet-5-5+websearch|default|S8-004|7,claude-sonnet-5-5+websearch,S8-004,S8,1,16,0,밤색 뜻 잘 익은 밤 껍질 색,9,wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;ko.ichacha.net;en.wikipedia.org;stock.adobe.com,0
+claude-sonnet-5-5+websearch|default|S4-009|7,claude-sonnet-5-5+websearch,S4-009,S4,1,13,0,"""하얗게 불태우다"" 의미",9,www.mdon.co.kr;hinative.com;hinative.com;hinative.com;www.82cook.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;m.boannews.com,0
+gpt-4o+websearch|default|S8-032|7,gpt-4o+websearch,S8-032,S8,1,859,1,(프롬프트 전체),0,,1
+gpt-4o+websearch|default|S3-033|7,gpt-4o+websearch,S3-033,S3,1,592,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-039|7,gpt-4o+websearch,S3-039,S3,1,580,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-028|7,gpt-4o+websearch,S8-028,S8,1,895,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-028|7,gpt-4o+websearch,S3-028,S3,1,585,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-026|7,claude-sonnet-5-5+websearch,S3-026,S3,1,22,0,미색 米色 연한 노란빛이 도는 흰색 한자,10,m.cafe.daum.net;krdict.korean.go.kr;m.cafe.daum.net;cluster1.cafe.daum.net;mwultong.blogspot.com;wordrow.kr;en.wikipedia.org;en.wikipedia.org;koreanhanja.app;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-042|7,claude-sonnet-5-5+websearch,S8-042,S8,1,12,0,연두색 봄 새싹 색 뜻,9,v.daum.net;www.hellodd.com;www.incheonin.com;www.lecturernews.com;www.jnilbo.com;www.koya-culture.com;wordrow.kr;popol8361.com;brunch.co.kr,0
+gpt-4o+websearch|default|S8-036|7,gpt-4o+websearch,S8-036,S8,1,912,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-006|7,claude-sonnet-5-5+websearch,S4-006,S4,1,21,0,새카맣다 뜻 그을음 속이 새카맣게 타다,9,dict.youdao.com;krdict.korean.go.kr;krdict.korean.go.kr;dict.wordrow.kr;wordrow.kr;krdict.korean.go.kr;en.wikipedia.org;en.wikipedia.org;www.kmaru.com,0
+gpt-4o+websearch|default|S4-021|7,gpt-4o+websearch,S4-021,S4,1,1002,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-035|7,gpt-4o+websearch,S3-035,S3,1,565,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-020|7,gpt-4o+websearch,S4-020,S4,1,1014,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-026|7,gpt-4o+websearch,S4-026,S4,1,1011,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-042|7,gpt-4o+websearch,S3-042,S3,1,610,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-014|7,gpt-4o+websearch,S3-014,S3,1,562,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S0-005|7,gpt-4o+websearch,S0-005,S0,1,288,0,(프롬프트 전체),0,,10
+claude-sonnet-5-5+websearch|default|S4-010|7,claude-sonnet-5-5+websearch,S4-010,S4,1,19,0,백안시 뜻 흰자위 업신여기거나 냉대,9,www.jjan.kr;www.korean.go.kr;m.cafe.daum.net;www.gnmaeil.com;m.cafe.daum.net;www.jjan.kr;wordrow.kr;wordrow.kr;plus.makeit27.com,0
+claude-sonnet-5-5+websearch|default|S8-019|7,claude-sonnet-5-5+websearch,S8-019,S8,1,18,0,맑은 날 낮 하늘 색 파란색 산란,9,www.home-learn.co.kr;www.idaegu.com;www.idaegu.com;www.uprtek.com;www.gklibrarykor.com;jr.etnews.com;www.etnews.com;www.a-ha.io;www.a-ha.io,1
+gpt-4o+websearch|default|S3-003|7,gpt-4o+websearch,S3-003,S3,1,574,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S0-004|7,gpt-4o+websearch,S0-004,S0,1,261,0,(프롬프트 전체),0,,2
+claude-sonnet-5-5+websearch|default|S8-056|7,claude-sonnet-5-5+websearch,S8-056,S8,1,10,0,올리브나무 잎 색깔,9,mytreelove.com;plants.im;critida.com;gogirifarm.org;jdm0777.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,1
+claude-sonnet-5-5+websearch|default|S3-025|7,claude-sonnet-5-5+websearch,S3-025,S3,1,19,0,곤색 어원 紺 일본어 곤 순화 감색,9,brunch.co.kr;kyobolifeblog.co.kr;m.cafe.daum.net;www.busan.com;www.urimal.org;en.wikipedia.org;www.a-ha.io;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-004|7,claude-sonnet-5-5+websearch,S3-004,S3,1,10,0,쑥색 뜻 쑥 잎 색,9,ko.wikipedia.org;wordrow.kr;www.knyhnews.co.kr;www.picturethisai.com;www.iksaeng.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-029|7,gpt-4o+websearch,S3-029,S3,1,585,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-019|7,claude-sonnet-5-5+websearch,S3-019,S3,1,10,0,남색 뜻 밤하늘 색,9,www.lecturernews.com;namu.wiki;en.wiktionary.org;thewiki.kr;wordrow.kr;namu.wiki;wordrow.kr;en.wikipedia.org;point-ery.com,0
+claude-sonnet-5-5+websearch|default|S0-002|7,claude-sonnet-5-5+websearch,S0-002,S0,1,19,0,안색 칙칙하다 검다 뜻 차이 뉘앙스,9,brunch.co.kr;m.cafe.daum.net;www.kci.go.kr;www.dbpia.co.kr;hinative.com;hinative.com;hinative.com;wordrow.kr;en.wikipedia.org,4
+claude-sonnet-5-5+websearch|default|S4-002|7,claude-sonnet-5-5+websearch,S4-002,S4,1,22,0,노을 하늘 노랗게 물들다 의미 색채 표현,9,ko.wikipedia.org;wordrow.kr;www.wikiwand.com;makeit27.com;picks.my;solangallery.caratkim.com;en.wikipedia.org;en.wikipedia.org;brunch.co.kr,0
+claude-sonnet-5-5+websearch|default|S4-023|7,claude-sonnet-5-5+websearch,S4-023,S4,1,19,0,흑자 뜻 수입이 지출보다 많아 이익,9,wordrow.kr;namu.wiki;namu.wiki;owldictionary.com;aideblog.com;www.superrealkorean.com;www.superrealkorean.com;en.wikipedia.org;www.eionet.europa.eu,0
+claude-sonnet-5-5+websearch|default|S8-010|7,claude-sonnet-5-5+websearch,S8-010,S8,1,12,0,잘 익은 살구 열매 색,9,m.cafe.daum.net;www.naturing.net;namu.wiki;stock.adobe.com;stock.adobe.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S4-008|7,claude-sonnet-5-5+websearch,S4-008,S4,1,25,0,색채 표현 하얗게 덮였다 눈 의미 시각적 표현,9,www.newstomato.com;www.popsci.co.kr;www.korean.go.kr;namu.wiki;namu.wiki;namu.wiki;www.modoodoc.com;ourhertz.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-021|7,claude-sonnet-5-5+websearch,S3-021,S3,1,14,0,밤색 어원 밤 열매 밤나무,9,ko.wikipedia.org;ko.wiktionary.org;namu.wiki;namu.wiki;namu.wiki;www.anjunj.com;mono-tree.com;jdm0777.com;encykorea.aks.ac.kr,0
+gpt-4o+websearch|default|S8-008|7,gpt-4o+websearch,S8-008,S8,1,862,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-024|7,claude-sonnet-5-5+websearch,S8-024,S8,1,14,0,쪽빛 쪽으로 물들인 색 뜻,9,50plus.or.kr;www.hankyung.com;www.ohmynews.com;namu.wiki;en.wikipedia.org;www.a-ha.io;encykorea.aks.ac.kr;encykorea.aks.ac.kr;dh.aks.ac.kr,0
+claude-sonnet-5-5+websearch|default|S3-006|7,claude-sonnet-5-5+websearch,S3-006,S3,1,16,0,살구색 잘 익은 살구 열매 색,9,m.cafe.daum.net;ko.wiktionary.org;www.naturing.net;www.latimes.kr;namu.wiki;en.wikipedia.org;en.wikipedia.org;stock.adobe.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S8-031|7,claude-sonnet-5-5+websearch,S8-031,S8,1,12,0,쥐색 뜻 쥐의 털 빛깔,9,emojipedia.org;ko.wikipedia.org;wordrow.kr;dict.wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;wordrow.kr;zetawiki.com,0
+gpt-4o+websearch|default|S3-009|7,gpt-4o+websearch,S3-009,S3,1,574,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-024|7,claude-sonnet-5-5+websearch,S3-024,S3,1,12,0,회색 어원 灰色 재 회,9,m.cafe.daum.net;ko.wiktionary.org;www.jnilbo.com;namu.wiki;namu.wiki;wordrow.kr;nihongokanji.com;tonghanja.com;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-030|7,gpt-4o+websearch,S8-030,S8,1,749,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-031|7,claude-sonnet-5-5+websearch,S3-031,S3,1,10,0,연두색 뜻 새싹 색,9,v.daum.net;dict.youdao.com;www.incheonin.com;www.lecturernews.com;www.jnilbo.com;en.wiktionary.org;www.jeonmae.co.kr;wordrow.kr;namu.wiki,0
+gpt-4o+websearch|default|S8-055|7,gpt-4o+websearch,S8-055,S8,1,1239,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-032|7,claude-sonnet-5-5+websearch,S3-032,S3,1,15,0,연두색 뜻 새싹 어린 잎 색,9,v.daum.net;www.incheonin.com;www.lecturernews.com;www.jnilbo.com;www.koya-culture.com;wordrow.kr;namu.wiki;popol8361.com;www.a-ha.io,0
+claude-sonnet-5-5+websearch|default|S8-026|7,claude-sonnet-5-5+websearch,S8-026,S8,1,20,0,사람 피 색깔 빨간색 산소 헤모글로빈,9,www.sisunnews.co.kr;www.sisunnews.co.kr;www.seehint.com;lg-sl.net;www.a-ha.io;www.a-ha.io;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-010|7,gpt-4o+websearch,S3-010,S3,1,568,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-040|7,claude-sonnet-5-5+websearch,S8-040,S8,1,19,0,진달래꽃 색 분홍색 진달래색 색이름,9,tip.daum.net;www.atlasnews.co.kr;www.kacn.org;digitalchosun.dizzo.com;ko.tacolor.com;ko.tacolor.com;en.wikipedia.org;ko.tacolor.com;encykorea.aks.ac.kr,0
+claude-sonnet-5-5+websearch|default|S8-015|7,claude-sonnet-5-5+websearch,S8-015,S8,1,15,0,귤 껍질 색 주황색 귤색 뜻,9,ko.wikipedia.org;thewiki.kr;www.wikitree.co.kr;namu.wiki;namu.wiki;namu.wiki;namu.mirror.wiki;www.orenlife.com;ko.ichacha.net,0
+claude-sonnet-5-5+websearch|default|S4-015|7,claude-sonnet-5-5+websearch,S4-015,S4,1,8,0,붉으락푸르락 뜻,9,www.ekoreanews.co.kr;www.khan.co.kr;www.khan.co.kr;wordrow.kr;en.wikipedia.org;en.wikipedia.org;www.scourt.go.kr;en.wikipedia.org;xn--hu1boo96ehufb8o0ta.net,0
+gpt-4o+websearch|default|S8-058|7,gpt-4o+websearch,S8-058,S8,1,875,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-005|7,claude-sonnet-5-5+websearch,S8-005,S8,1,13,0,쑥색 쑥잎 빛깔 색 이름,9,ko.wikipedia.org;blog.daum.net;wordrow.kr;www.knyhnews.co.kr;www.picturethisai.com;en.wikipedia.org;en.wikipedia.org;dh.aks.ac.kr;unsplash.com,0
+gpt-4o+websearch|default|S8-053|7,gpt-4o+websearch,S8-053,S8,1,922,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-026|7,gpt-4o+websearch,S8-026,S8,1,850,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-007|7,claude-sonnet-5-5+websearch,S4-007,S4,1,11,0,머릿속이 하얘지다 뜻,9,www.psychiatricnews.net;economychosun.com;tip.daum.net;namu.wiki;www.voakorea.com;www.youtube.com;wordrow.kr;www.a-ha.io;calper.la.psu.edu,0
+claude-sonnet-5-5+websearch|default|S4-033|7,claude-sonnet-5-5+websearch,S4-033,S4,1,22,0,회색 색채 표현 의미 삭막함 무채색 문학,9,brunch.co.kr;www.jnilbo.com;www.jnilbo.com;brunch.co.kr;dict.wordrow.kr;www.fntoday.co.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-016|7,claude-sonnet-5-5+websearch,S8-016,S8,1,17,0,귤색 주황색 귤 껍질 색 표준어,9,ko.wikipedia.org;thewiki.kr;namu.wiki;namu.wiki;namu.wiki;namu.wiki;en.wiktionary.org;namu.mirror.wiki;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-034|7,claude-sonnet-5-5+websearch,S8-034,S8,1,11,0,개나리꽃 색깔 노란색,9,www.kbanker.co.kr;www.forest.go.kr;www.cctimes.kr;namu.wiki;www.thecolumnist.kr;jsflower.kr;gotravelerss.com;unsplash.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S8-017|7,claude-sonnet-5-5+websearch,S8-017,S8,1,25,0,하늘색 맑게 갠 낮 하늘 연한 푸른빛 색 이름,9,en.wiktionary.org;dictionary.reverso.net;ko.tacolor.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S8-025|7,gpt-4o+websearch,S8-025,S8,1,813,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-012|7,claude-sonnet-5-5+websearch,S8-012,S8,1,20,0,잘 익은 살구 열매 색 주황색 살구색,9,brunch.co.kr;ko.wiktionary.org;www.naturing.net;namu.wiki;www.a-ha.io;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;stock.adobe.com,1
+claude-sonnet-5-5+websearch|default|S3-003|7,claude-sonnet-5-5+websearch,S3-003,S3,1,11,0,쑥색 쑥 잎 색 의미,9,ko.wikipedia.org;m.cafe.daum.net;wordrow.kr;www.newsnjeju.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;encykorea.aks.ac.kr,0
+claude-sonnet-5-5+websearch|default|S3-011|7,claude-sonnet-5-5+websearch,S3-011,S3,1,15,0,쪽빛 쪽 염료 식물 염색 색,9,m.cafe.daum.net;ko.wikipedia.org;contents.history.go.kr;m.cafe.daum.net;www.beopbo.com;namu.wiki;www.chemidream.com;en.wikipedia.org;encykorea.aks.ac.kr,0
+gpt-4o+websearch|default|S3-008|7,gpt-4o+websearch,S3-008,S3,1,548,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-062|7,gpt-4o+websearch,S8-062,S8,1,931,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-004|7,gpt-4o+websearch,S3-004,S3,1,568,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S0-005|7,claude-sonnet-5-5+websearch,S0-005,S0,1,30,0,럭셔리 블랙 vs 고급스러운 검정 마케팅 소비자 이미지,9,www.economy21.co.kr;www.econovill.com;www.artinsight.co.kr;www.dentalarirang.com;www.reportshop.co.kr;arxiv.org;www.ncbi.nlm.nih.gov;www.ncbi.nlm.nih.gov;www.ncbi.nlm.nih.gov,7
+claude-sonnet-5-5+websearch|default|S8-047|7,claude-sonnet-5-5+websearch,S8-047,S8,1,13,0,겨자색 뜻 겨자 가루 색,9,blog.daum.net;m.cafe.daum.net;www.ohmynews.com;www.collinsdictionary.com;en.wiktionary.org;www.koreatownnews.com;namu.wiki;en.wikipedia.org;en.wikipedia.org,2
+claude-sonnet-5-5+websearch|default|S3-012|7,claude-sonnet-5-5+websearch,S3-012,S3,1,15,0,쪽 염료 식물 쪽빛 염색 색,9,m.cafe.daum.net;contents.history.go.kr;www.cha.go.kr;m.cafe.daum.net;www.chemidream.com;en.wikipedia.org;encykorea.aks.ac.kr;en.wikipedia.org;www.ncbi.nlm.nih.gov,0
+claude-sonnet-5-5+websearch|default|S0-004|7,claude-sonnet-5-5+websearch,S0-004,S0,1,16,0,밤색 뜻 잘 익은 밤 껍질 색,9,wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;ko.ichacha.net;en.wikipedia.org;stock.adobe.com,3
+gpt-4o+websearch|default|S4-012|7,gpt-4o+websearch,S4-012,S4,1,1000,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-007|7,gpt-4o+websearch,S4-007,S4,1,914,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-023|7,gpt-4o+websearch,S4-023,S4,1,973,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-022|7,gpt-4o+websearch,S3-022,S3,1,642,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-028|7,claude-sonnet-5-5+websearch,S8-028,S8,1,20,0,사람 혈액 색 빨간색 이유 헤모글로빈,9,www.sisunnews.co.kr;www.sisunnews.co.kr;www.a-ha.io;www.a-ha.io;www.a-ha.io;www.a-ha.io;www.a-ha.io;ko.fusedlearning.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-038|7,claude-sonnet-5-5+websearch,S8-038,S8,1,11,0,진달래꽃 색깔 분홍색,9,www.greenpostkorea.co.kr;tip.daum.net;www.atlasnews.co.kr;www.tongilnews.com;www.latimes.kr;namu.wiki;digitalchosun.dizzo.com;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S4-003|7,claude-sonnet-5-5+websearch,S4-003,S4,1,13,0,얼굴이 파랗게 질리다 뜻,9,krdict.korean.go.kr;ko.wiktionary.org;krdict.korean.go.kr;hinative.com;wordrow.kr;wordrow.kr;wordrow.kr;wordrow.kr;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-005|7,gpt-4o+websearch,S4-005,S4,1,901,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-012|7,gpt-4o+websearch,S8-012,S8,1,902,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-051|7,gpt-4o+websearch,S8-051,S8,1,1271,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-038|7,gpt-4o+websearch,S3-038,S3,1,584,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-023|7,gpt-4o+websearch,S3-023,S3,1,654,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-028|7,claude-sonnet-5-5+websearch,S3-028,S3,1,15,0,개나리꽃 색 노란색 개나리색,9,www.kbanker.co.kr;www.forest.go.kr;wordrow.kr;steemit.com;www.naturing.net;www.thecolumnist.kr;kr.facts.net;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-045|7,gpt-4o+websearch,S3-045,S3,1,638,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-047|7,gpt-4o+websearch,S8-047,S8,1,1214,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-059|7,claude-sonnet-5-5+websearch,S8-059,S8,1,23,0,가지색 가지 껍질 색 보라색 표준국어대사전,9,v.daum.net;brunch.co.kr;wordrow.kr;dict.wordrow.kr;hobbynsoul.kr;furune.info;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-002|7,claude-sonnet-5-5+websearch,S8-002,S8,1,15,0,밤색 뜻 익은 밤의 껍질 색,9,ko.wikipedia.org;wordrow.kr;namu.wiki;wordrow.kr;namu.wiki;namu.wiki;en.wikipedia.org;stock.adobe.com;brainscape.com,0
+gpt-4o+websearch|default|S8-048|7,gpt-4o+websearch,S8-048,S8,1,880,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-047|7,gpt-4o+websearch,S3-047,S3,1,605,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S0-001|7,claude-sonnet-5-5+websearch,S0-001,S0,1,18,0,검다 까맣다 거무스름하다 차이 뜻,9,blog.daum.net;www.korea.kr;www.korea.kr;ko.wiktionary.org;hinative.com;wordrow.kr;hinative.com;news.nate.com;ko.ichacha.net,7
+gpt-4o+websearch|default|S8-038|7,gpt-4o+websearch,S8-038,S8,1,864,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-041|7,claude-sonnet-5-5+websearch,S8-041,S8,1,14,0,연두색 새싹 어린잎 색 뜻,9,v.daum.net;www.hellodd.com;www.jnilbo.com;www.lecturernews.com;www.koya-culture.com;wordrow.kr;popol8361.com;www.a-ha.io;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-041|7,claude-sonnet-5-5+websearch,S3-041,S3,1,20,0,다크 초콜릿 색 초콜릿색 갈색 색이름,9,ko.wikipedia.org;www.newsway.co.kr;creazilla.com;encycolorpedia.com;www.a-ha.io;developers.google.com;unsplash.com;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-031|7,gpt-4o+websearch,S3-031,S3,1,605,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-020|7,claude-sonnet-5-5+websearch,S8-020,S8,1,19,0,맑은 날 낮 하늘 색 하늘색 파란색,9,www.idaegu.com;namu.wiki;hub.zum.com;namu.wiki;namu.wiki;colortoneandcolortemperature.com;jr.etnews.com;www.a-ha.io;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-024|7,gpt-4o+websearch,S8-024,S8,1,894,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-015|7,gpt-4o+websearch,S8-015,S8,1,1187,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-006|7,gpt-4o+websearch,S3-006,S3,1,569,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-050|7,claude-sonnet-5-5+websearch,S3-050,S3,1,13,0,청포묵 색 녹두 전분 묵,9,blog.pulmuone.com;ko.wikipedia.org;www.kurly.com;patents.google.com;www.10000recipe.com;www.10000recipe.com;www.10000recipe.com;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-057|7,gpt-4o+websearch,S8-057,S8,1,875,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-001|7,claude-sonnet-5-5+websearch,S4-001,S4,1,17,0,하늘이 노랗게 보이다 뜻 관용구,9,www.italki.com;ko.wikipedia.org;blog.daum.net;wordrow.kr;wordrow.kr;wordrow.kr;hinative.com;study-korean.tumblr.com;koreantutors.wordpress.com,0
+claude-sonnet-5-5+websearch|default|S4-018|7,claude-sonnet-5-5+websearch,S4-018,S4,1,4,0,흑막 뜻,9,wordrow.kr;namu.wiki;wordrow.kr;wordrow.kr;namu.wiki;wordrow.kr;namu.wiki;wordsisters.com;m.boannews.com,0
+gpt-4o+websearch|default|S3-030|7,gpt-4o+websearch,S3-030,S3,1,579,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-027|7,claude-sonnet-5-5+websearch,S3-027,S3,1,15,0,개나리꽃 색 개나리색 노란색,9,www.kbanker.co.kr;www.forest.go.kr;wordrow.kr;steemit.com;www.naturing.net;www.thecolumnist.kr;kr.facts.net;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S4-034|7,gpt-4o+websearch,S4-034,S4,1,1012,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-011|7,claude-sonnet-5-5+websearch,S8-011,S8,1,12,0,잘 익은 살구 열매 색,9,m.cafe.daum.net;www.naturing.net;namu.wiki;stock.adobe.com;stock.adobe.com;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-001|7,gpt-4o+websearch,S3-001,S3,1,578,1,(프롬프트 전체),0,,1
+claude-sonnet-5-5+websearch|default|S8-054|7,claude-sonnet-5-5+websearch,S8-054,S8,1,21,0,올리브나무 잎 색 앞면 초록 뒷면 은빛,9,mytreelove.com;plants.im;jdm0777.com;en.wikipedia.org;en.wikipedia.org;unsplash.com;unsplash.com;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-046|7,gpt-4o+websearch,S3-046,S3,1,632,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-027|7,claude-sonnet-5-5+websearch,S4-027,S4,1,8,0,블랙 컨슈머 뜻,9,www.kyeonggi.com;kbthink.com;www.kyeonggi.com;www.danbinews.com;wordrow.kr;namu.wiki;www.dokdok.co;blog.ibk.co.kr;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-020|7,gpt-4o+websearch,S8-020,S8,1,953,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-052|7,gpt-4o+websearch,S8-052,S8,1,892,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-015|7,gpt-4o+websearch,S4-015,S4,1,927,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-008|7,claude-sonnet-5-5+websearch,S3-008,S3,1,11,0,귤색 뜻 귤 껍질 색,9,www.wikitree.co.kr;thewiki.kr;namu.wiki;namu.wiki;namu.wiki;wordrow.kr;namu.mirror.wiki;www.a-ha.io;ko.ichacha.net,0
+claude-sonnet-5-5+websearch|default|S3-044|7,claude-sonnet-5-5+websearch,S3-044,S3,1,22,0,비 오기 전 구름 낀 하늘 색 회색 이유,9,m.cafe.daum.net;jr.etnews.com;picks.my;www.a-ha.io;www.a-ha.io;www.a-ha.io;www.a-ha.io;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S8-041|7,gpt-4o+websearch,S8-041,S8,1,938,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-063|7,gpt-4o+websearch,S8-063,S8,1,1306,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-018|7,gpt-4o+websearch,S4-018,S4,1,991,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-036|7,claude-sonnet-5-5+websearch,S3-036,S3,1,18,0,도라지색 전통색 도라지꽃 색 보라,9,brunch.co.kr;v.daum.net;www.thepatioyujin.com;plants.im;en.wikipedia.org;www.news4000.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-008|7,claude-sonnet-5-5+websearch,S8-008,S8,1,11,0,쑥색 뜻 쑥 잎 색깔,9,ko.wikipedia.org;m.cafe.daum.net;wordrow.kr;wordrow.kr;www.knyhnews.co.kr;www.iksaeng.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S4-026|7,claude-sonnet-5-5+websearch,S4-026,S4,1,13,0,그린라이트 뜻 호감 신호,9,zdnet.co.kr;platum.kr;www.asiatoday.co.kr;wordrow.kr;wordrow.kr;www.panews.co.kr;slangkorea.com;www.a-ha.io;www.coursera.org,0
+gpt-4o+websearch|default|S3-040|7,gpt-4o+websearch,S3-040,S3,1,580,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-006|7,claude-sonnet-5-5+websearch,S8-006,S8,1,9,0,쑥 봄나물 잎 색,9,ko.wikipedia.org;v.daum.net;www.allurekorea.com;www.nongmin.com;thegnnews.com;www.iksaeng.com;www.thetvdb.com;brunch.co.kr;brunch.co.kr,0
+gpt-4o+websearch|default|S8-010|7,gpt-4o+websearch,S8-010,S8,1,852,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-056|7,gpt-4o+websearch,S8-056,S8,1,895,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-040|7,gpt-4o+websearch,S8-040,S8,1,896,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-016|7,gpt-4o+websearch,S3-016,S3,1,554,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-060|7,claude-sonnet-5-5+websearch,S8-060,S8,1,19,0,가지색 가지 껍질 색 표준국어대사전,9,jirisaneum.org;wordrow.kr;dict.wordrow.kr;dict.wordrow.kr;en.wiktionary.org;www.nongmin.com;namu.wiki;namu.wiki;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-003|7,gpt-4o+websearch,S8-003,S8,1,1366,1,(프롬프트 전체),0,,1
+claude-sonnet-5-5+websearch|default|S3-048|7,claude-sonnet-5-5+websearch,S3-048,S3,1,21,0,은행나무 단풍 노란색 이유 카로티노이드,9,www.hankyung.com;www.hankookilbo.com;www.etoday.co.kr;www.seehint.com;www.a-ha.io;www.a-ha.io;creation.kr;image-ppubs.uspto.gov;www.ncbi.nlm.nih.gov,0
+claude-sonnet-5-5+websearch|default|S8-025|7,claude-sonnet-5-5+websearch,S8-025,S8,1,21,0,핏빛 뜻 사람의 피처럼 붉고 짙은 빛깔,9,www.mindlenews.com;www.segye.com;brunch.co.kr;www.korean.go.kr;sports.khan.co.kr;dictionary.langeek.co;chunmyung.com;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-015|7,gpt-4o+websearch,S3-015,S3,1,548,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-045|7,claude-sonnet-5-5+websearch,S8-045,S8,1,15,0,겨자색 색 이름 겨자씨 가루,9,blog.daum.net;ko.wikipedia.org;m.cafe.daum.net;ko.wikipedia.org;namu.wiki;en.wiktionary.org;getfoodhealth.com;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-014|7,claude-sonnet-5-5+websearch,S8-014,S8,1,16,0,귤색 뜻 표준국어대사전 주황색,9,ko.wikipedia.org;thewiki.kr;dict.wordrow.kr;namu.wiki;wordrow.kr;en.wiktionary.org;namu.mirror.wiki;kocw-n.xcache.kinxcdn.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-058|7,claude-sonnet-5-5+websearch,S8-058,S8,1,14,0,가지 채소 껍질 색 보라색,9,v.daum.net;v.daum.net;www.realfoods.co.kr;www.nongmin.com;furune.info;news.nate.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-032|7,claude-sonnet-5-5+websearch,S8-032,S8,1,14,0,쥐색 뜻 쥐의 털 색 회색,9,wordrow.kr;dict.wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;wordrow.kr;ko.ichacha.net;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S4-028|7,gpt-4o+websearch,S4-028,S4,1,934,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-001|7,claude-sonnet-5-5+websearch,S3-001,S3,1,25,0,밤색 뜻 잘 익은 밤의 껍질 색 표준국어대사전,9,ko.wikipedia.org;wordrow.kr;dict.wordrow.kr;namu.wiki;wordrow.kr;namu.wiki;hinative.com;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S0-003|7,claude-sonnet-5-5+websearch,S0-003,S0,1,19,0,푸르다 파랑 초록 색채어 의미 범주,9,www.kci.go.kr;www.kci.go.kr;kiss.kstudy.com;ko.wikipedia.org;www.hantoday.net;www.koreanstudyjunkie.com;kocw-n.xcache.kinxcdn.com;en.wikipedia.org;en.wikipedia.org,14
+claude-sonnet-5-5+websearch|default|S4-031|7,claude-sonnet-5-5+websearch,S4-031,S4,1,6,0,흑백논리 뜻,9,ko.wikipedia.org;ko.wiktionary.org;brunch.co.kr;www.edujin.co.kr;wordrow.kr;namu.wiki;namu.wiki;getidiom.com;arxiv.org,0
+claude-sonnet-5-5+websearch|default|S4-011|7,claude-sonnet-5-5+websearch,S4-011,S4,1,12,0,얼굴이 누렇게 뜨다 뜻,9,doctornow.co.kr;news.hidoc.co.kr;www.hidoc.co.kr;krdict.korean.go.kr;www.babytimes.co.kr;calper.la.psu.edu;ko.ichacha.net;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S4-013|7,claude-sonnet-5-5+websearch,S4-013,S4,1,17,0,"""푸른 꿈"" 뜻 희망 젊은 이상",9,ko.wiktionary.org;krdict.korean.go.kr;school.busanedu.net;hinative.com;bani2019.com;bani2019.com;calper.la.psu.edu;www.lesserpanda123.com;brunch.co.kr,0
+claude-sonnet-5-5+websearch|default|S8-035|7,claude-sonnet-5-5+websearch,S8-035,S8,1,10,0,개나리꽃 색 노란색,9,www.kbanker.co.kr;ko.wikipedia.org;www.forest.go.kr;steemit.com;www.thecolumnist.kr;gotravelerss.com;unsplash.com;unsplash.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S4-029|7,claude-sonnet-5-5+websearch,S4-029,S4,1,16,0,레드오션 뜻 경쟁 치열한 시장,9,brunch.co.kr;mofe.go.kr;wordrow.kr;wordrow.kr;namu.wiki;namu.wiki;en.wikipedia.org;www.a-ha.io;www.a-ha.io,0
+claude-sonnet-5-5+websearch|default|S3-022|7,claude-sonnet-5-5+websearch,S3-022,S3,1,13,0,감색 紺色 어원 감 한자,10,brunch.co.kr;ko.wiktionary.org;namu.wiki;nihongokanji.com;saram-23.blogspot.com;en.wikipedia.org;en.wikipedia.org;www.a-ha.io;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S8-006|7,gpt-4o+websearch,S8-006,S8,1,888,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-005|7,gpt-4o+websearch,S3-005,S3,1,575,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-017|7,gpt-4o+websearch,S4-017,S4,1,900,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S0-003|7,gpt-4o+websearch,S0-003,S0,1,294,0,(프롬프트 전체),0,,6
+gpt-4o+websearch|default|S3-027|7,gpt-4o+websearch,S3-027,S3,1,585,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-029|7,claude-sonnet-5-5+websearch,S8-029,S8,1,14,0,쥐색 쥐털 빛깔 짙은 회색,9,wordrow.kr;wordrow.kr;maisonys.com;namu.wiki;namu.wiki;mamagari.com;wordrow.kr;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-026|7,gpt-4o+websearch,S3-026,S3,1,614,1,(프롬프트 전체),0,,1
+claude-sonnet-5-5+websearch|default|S8-030|7,claude-sonnet-5-5+websearch,S8-030,S8,1,16,0,쥐색 뜻 쥐의 털빛 같은 회색,9,wordrow.kr;wordrow.kr;namu.wiki;namu.wiki;wordrow.kr;en.wikipedia.org;en.wikipedia.org;ko.ichacha.net;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-004|7,gpt-4o+websearch,S4-004,S4,1,906,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-045|7,gpt-4o+websearch,S8-045,S8,1,913,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-007|7,gpt-4o+websearch,S3-007,S3,1,554,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-039|7,claude-sonnet-5-5+websearch,S3-039,S3,1,20,0,가지색 표준국어대사전 가지 껍질 빛깔,9,v.daum.net;jirisaneum.org;wordrow.kr;dict.wordrow.kr;namu.wiki;namu.wiki;furune.info;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-011|7,gpt-4o+websearch,S3-011,S3,1,606,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-050|7,claude-sonnet-5-5+websearch,S8-050,S8,1,7,0,도라지꽃 색깔,9,www.incheonin.com;www.munhwa.com;ko.wikipedia.org;namu.wiki;www.hortitimes.com;www.news4000.com;plants.im;encykorea.aks.ac.kr;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-049|7,claude-sonnet-5-5+websearch,S3-049,S3,1,21,0,청포묵 색 녹두 전분 청포묵 이름 유래,9,www.kculture.or.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;www.a-ha.io;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-050|7,gpt-4o+websearch,S3-050,S3,1,617,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-052|7,claude-sonnet-5-5+websearch,S8-052,S8,1,15,0,도라지꽃 색 보라색 도라지색,9,ko.wikipedia.org;www.incheonin.com;v.daum.net;www.thepatioyujin.com;plants.im;www.news4000.com;en.wikipedia.org;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S4-030|7,gpt-4o+websearch,S4-030,S4,1,1003,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-064|7,claude-sonnet-5-5+websearch,S8-064,S8,1,16,0,초콜릿색 다크 초콜릿 색 이름,9,ko.wikipedia.org;biz.heraldcorp.com;wordrow.kr;moneycode.kr;www.media.io;en.wikipedia.org;unsplash.com;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-021|7,claude-sonnet-5-5+websearch,S8-021,S8,1,12,0,쪽빛 쪽 염료 색 이름,9,blog.daum.net;ko.wikipedia.org;www.hankyung.com;m.cafe.daum.net;encykorea.aks.ac.kr;dh.aks.ac.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-010|7,gpt-4o+websearch,S4-010,S4,1,880,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-022|7,claude-sonnet-5-5+websearch,S4-022,S4,1,16,0,적자 뜻 붉은 글씨 어원 赤字,10,ko.wikipedia.org;www.ksilbo.co.kr;m.cafe.daum.net;ko.wiktionary.org;wordrow.kr;namu.wiki;namu.wiki;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-046|7,claude-sonnet-5-5+websearch,S3-046,S3,1,24,0,노을 색깔 주황색 붉은 이유 일몰 서쪽 하늘,9,brunch.co.kr;www.asiae.co.kr;www.civicnews.com;color.re.kr;www.sisadays.co.kr;www.a-ha.io;www.a-ha.io;www.a-ha.io;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-025|7,gpt-4o+websearch,S3-025,S3,1,673,1,(프롬프트 전체),0,,1
+gpt-4o+websearch|default|S8-061|7,gpt-4o+websearch,S8-061,S8,1,879,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-030|7,claude-sonnet-5-5+websearch,S3-030,S3,1,13,0,진달래색 뜻 진달래꽃 색,9,tip.daum.net;ko.wiktionary.org;m.cafe.daum.net;www.tongilnews.com;digitalchosun.dizzo.com;www.thecolumnist.kr;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-039|7,claude-sonnet-5-5+websearch,S8-039,S8,1,11,0,진달래꽃 색깔 분홍색,9,www.greenpostkorea.co.kr;tip.daum.net;www.atlasnews.co.kr;www.tongilnews.com;www.latimes.kr;namu.wiki;digitalchosun.dizzo.com;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-017|7,gpt-4o+websearch,S3-017,S3,1,582,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-037|7,claude-sonnet-5-5+websearch,S3-037,S3,1,14,0,올리브나무 잎 색깔 은녹색,9,mytreelove.com;plants.im;jdm0777.com;en.wikipedia.org;en.wikipedia.org;smallholdinghero.com;unsplash.com;unsplash.com;unsplash.com,0
+claude-sonnet-5-5+websearch|default|S4-025|7,claude-sonnet-5-5+websearch,S4-025,S4,1,28,0,블루 셔츠 의미 파란색 셔츠 색채 표현 문자 그대로,9,v.daum.net;brunch.co.kr;m.cafe.daum.net;www.khan.co.kr;en.wikipedia.org;en.wikipedia.org;harueng.eventlong.com;en.wikipedia.org;brunch.co.kr,0
+gpt-4o+websearch|default|S8-013|7,gpt-4o+websearch,S8-013,S8,1,794,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-001|7,gpt-4o+websearch,S8-001,S8,1,914,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-012|7,gpt-4o+websearch,S3-012,S3,1,600,1,(프롬프트 전체),0,,1
+gpt-4o+websearch|default|S4-009|7,gpt-4o+websearch,S4-009,S4,1,953,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-007|7,gpt-4o+websearch,S8-007,S8,1,1363,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-014|7,claude-sonnet-5-5+websearch,S3-014,S3,1,18,0,사람 혈액 색깔 붉은색 헤모글로빈,9,www.ksilbo.co.kr;namu.wiki;www.a-ha.io;ko.fusedlearning.com;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org;image-ppubs.uspto.gov;kennet.mhlw.go.jp,0
+claude-sonnet-5-5+websearch|default|S3-043|7,claude-sonnet-5-5+websearch,S3-043,S3,1,22,0,비 오기 전 구름 낀 하늘 색 회색 이유,9,m.cafe.daum.net;jr.etnews.com;picks.my;www.a-ha.io;www.a-ha.io;www.a-ha.io;www.a-ha.io;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S3-036|7,gpt-4o+websearch,S3-036,S3,1,565,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-022|7,gpt-4o+websearch,S4-022,S4,1,935,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-004|7,gpt-4o+websearch,S8-004,S8,1,957,1,(프롬프트 전체),0,,1
+gpt-4o+websearch|default|S4-008|7,gpt-4o+websearch,S4-008,S4,1,942,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-016|7,claude-sonnet-5-5+websearch,S4-016,S4,1,11,0,파란만장 뜻 波瀾萬丈,10,blog.daum.net;www.jbnews.com;www.kmib.co.kr;ko.wiktionary.org;wordrow.kr;wordrow.kr;haesol-memo.com;4hanja.nameunse.com;en.wikipedia.org;www.a-ha.io,0
+claude-sonnet-5-5+websearch|default|S8-037|7,claude-sonnet-5-5+websearch,S8-037,S8,1,11,0,진달래색 뜻 색 이름,9,ko.wiktionary.org;bravo.etoday.co.kr;www.korean.go.kr;www.tongilnews.com;wordrow.kr;www.thecolumnist.kr;en.wikipedia.org;ko.tacolor.com;encykorea.aks.ac.kr,0
+gpt-4o+websearch|default|S0-001|7,gpt-4o+websearch,S0-001,S0,1,293,0,(프롬프트 전체),0,,3
+claude-sonnet-5-5+websearch|default|S8-057|7,claude-sonnet-5-5+websearch,S8-057,S8,1,19,0,가지색 가지 열매 껍질 짙은 보라색,9,v.daum.net;samsunghospital.com;jirisaneum.org;www.wikitree.co.kr;jdm0777.com;www.news-wa.com;unsplash.com;unsplash.com;unsplash.com,0
+gpt-4o+websearch|default|S8-011|7,gpt-4o+websearch,S8-011,S8,1,1298,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S3-021|7,gpt-4o+websearch,S3-021,S3,1,612,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-033|7,gpt-4o+websearch,S8-033,S8,1,910,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-019|7,gpt-4o+websearch,S8-019,S8,1,1310,1,(프롬프트 전체),0,,1
+claude-sonnet-5-5+websearch|default|S4-020|7,claude-sonnet-5-5+websearch,S4-020,S4,1,15,0,청출어람 뜻 청출어람 청어람,9,sgsg.hankyung.com;wordrow.kr;www.kscoramdeo.com;www.naeponews.co.kr;semzip.kr;wordrow.kr;www.lionidiom.com;great-korea.com;brunch.co.kr,0
+gpt-4o+websearch|default|S3-044|7,gpt-4o+websearch,S3-044,S3,1,645,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-050|7,gpt-4o+websearch,S8-050,S8,1,862,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-042|7,gpt-4o+websearch,S8-042,S8,1,895,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-062|7,claude-sonnet-5-5+websearch,S8-062,S8,1,16,0,다크 초콜릿 색 초콜릿색 갈색,9,ko.wikipedia.org;biz.heraldcorp.com;www.newsway.co.kr;www.esocialtimes.com;wordrow.kr;www.media.io;namu.wiki;unsplash.com;en.wikipedia.org,0
+gpt-4o+websearch|default|S4-027|7,gpt-4o+websearch,S4-027,S4,1,998,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S8-051|7,claude-sonnet-5-5+websearch,S8-051,S8,1,10,0,도라지꽃 색 보라색,9,ko.wikipedia.org;www.incheonin.com;www.munhwa.com;v.daum.net;www.picturethisai.com;www.thepatioyujin.com;plants.im;www.news4000.com;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S8-033|7,claude-sonnet-5-5+websearch,S8-033,S8,1,11,0,개나리색 뜻 색 이름,9,ko.wikipedia.org;x.com;ko.wiktionary.org;wordrow.kr;namu.wiki;namu.wiki;en.wikipedia.org;en.wikipedia.org;en.wikipedia.org,0
+gpt-4o+websearch|default|S3-024|7,gpt-4o+websearch,S3-024,S3,1,594,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S8-014|7,gpt-4o+websearch,S8-014,S8,1,786,1,(프롬프트 전체),0,,0
+gpt-4o+websearch|default|S4-002|7,gpt-4o+websearch,S4-002,S4,1,983,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S4-017|7,claude-sonnet-5-5+websearch,S4-017,S4,1,5,0,홍일점 뜻,9,m.cafe.daum.net;www.gnmaeil.com;sgsg.hankyung.com;wordrow.kr;namu.wiki;wordrow.kr;namu.wiki;wordrow.kr;brunch.co.kr,0
+gpt-4o+websearch|default|S4-016|7,gpt-4o+websearch,S4-016,S4,1,968,1,(프롬프트 전체),0,,0
+claude-sonnet-5-5+websearch|default|S3-010|7,claude-sonnet-5-5+websearch,S3-010,S3,1,23,0,맑은 날 낮 하늘이 파란 이유 레일리 산란,9,v.daum.net;wikidocs.net;www.home-learn.co.kr;ko.wikipedia.org;www.iworldtoday.com;www.ibuan.com;kimverick.com;thenewsmedical.co.kr;en.wikipedia.org,0
+claude-sonnet-5-5+websearch|default|S3-029|7,claude-sonnet-5-5+websearch,S3-029,S3,1,16,0,진달래꽃 색깔 진달래색 분홍색,9,www.greenpostkorea.co.kr;www.atlasnews.co.kr;namu.wiki;digitalchosun.dizzo.com;en.wikipedia.org;jdm0777.com;view.nate.com;encykorea.aks.ac.kr;brunch.co.kr,0
+claude-sonnet-5-5+websearch|default|S8-036|7,claude-sonnet-5-5+websearch,S8-036,S8,1,10,0,개나리색 색이름 뜻,9,ko.wikipedia.org;x.com;ko.wiktionary.org;steemit.com;wordrow.kr;www.koreadaily.com;www.thecolumnist.kr;en.wikipedia.org;en.wikipedia.org,1
+claude-sonnet-5-5+websearch|default|S3-017|7,claude-sonnet-5-5+websearch,S3-017,S3,1,15,0,감색 뜻 감 열매 색 주황색,9,brunch.co.kr;ko.wikipedia.org;www.mindlenews.com;www.koya-culture.com;wordrow.kr;wordrow.kr;en.wikipedia.org;krdict.korean.go.kr;en.wikipedia.org,0

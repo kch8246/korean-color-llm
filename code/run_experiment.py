@@ -205,21 +205,26 @@ def make_openai_compat(base_url, token_param):
 
 
 def call_openai_search(m, key, prompt, max_tokens, temp):
-    body = {"model": m["id"], "input": prompt, "tools": [{"type": "web_search"}], "tool_choice": "required", "max_output_tokens": max(max_tokens, 64)}
+    body = {"model": m["id"], "input": prompt, "tools": [{"type": "web_search"}], "tool_choice": "required", "max_output_tokens": max(max_tokens, 64),
+            "include": ["web_search_call.action.sources"]}
     d = http_json("https://api.openai.com/v1/responses", {"Authorization": f"Bearer {key}"}, body, m.get("timeout", TIMEOUT))
-    texts, cites, n_search = [], [], 0
+    texts, cites, n_search, slog = [], [], 0, []
     for it in d.get("output", []):
         if it.get("type") == "web_search_call":
             n_search += 1
+            act = it.get("action") or {}
+            slog.append(dict(kind="query", query=act.get("query"), queries=act.get("queries"),
+                             sources=[dict(url=x.get("url"), title=x.get("title")) for x in (act.get("sources") or [])]))
         if it.get("type") == "message":
             for c in it.get("content", []):
                 if c.get("type") == "output_text":
                     texts.append(c.get("text", ""))
                     cites += [a.get("url") for a in c.get("annotations", []) if a.get("type") == "url_citation"]
+                    slog += [dict(kind="citation", url=a.get("url"), title=a.get("title")) for a in c.get("annotations", []) if a.get("type") == "url_citation"]
     u = d.get("usage") or {}
     return dict(text="".join(texts).strip(), reasoning=None, tokens_in=u.get("input_tokens"),
                 tokens_out=u.get("output_tokens"), citations=cites, search_calls=n_search,
-                finish=d.get("status"), model_returned=d.get("model"))
+                finish=d.get("status"), model_returned=d.get("model"), search_log=slog)
 
 
 def call_claude(m, key, prompt, max_tokens, temp):
@@ -232,17 +237,25 @@ def call_claude(m, key, prompt, max_tokens, temp):
         body["system"] = "답하기 전에 반드시 web_search 도구로 한 번 이상 검색해 확인하세요. 최종 답은 사용자가 요구한 형식 그대로 출력하세요."
     d = http_json("https://api.anthropic.com/v1/messages", {"x-api-key": key, "anthropic-version": "2023-06-01"},
                   body, m.get("timeout", TIMEOUT))
-    texts, cites, n_search = [], [], 0
+    texts, cites, n_search, slog = [], [], 0, []
     for b in d.get("content", []):
         if b.get("type") == "text":
             texts.append(b.get("text", ""))
             cites += [c.get("url") for c in (b.get("citations") or []) if c.get("url")]
+            slog += [dict(kind="citation", url=c.get("url"), title=c.get("title"), cited_text=(c.get("cited_text") or "")[:500]) for c in (b.get("citations") or [])]
         elif b.get("type") == "server_tool_use":
             n_search += 1
+            slog.append(dict(kind="query", query=(b.get("input") or {}).get("query")))
+        elif b.get("type") == "web_search_tool_result":
+            cont = b.get("content")
+            if isinstance(cont, list):
+                slog.append(dict(kind="results", sources=[dict(url=x.get("url"), title=x.get("title"), page_age=x.get("page_age")) for x in cont if isinstance(x, dict)]))
+            else:
+                slog.append(dict(kind="results_error", detail=str(cont)[:200]))
     u = d.get("usage") or {}
     return dict(text="".join(texts).strip(), reasoning=None, tokens_in=u.get("input_tokens"),
                 tokens_out=u.get("output_tokens"), citations=cites, search_calls=n_search,
-                finish=d.get("stop_reason"), model_returned=d.get("model"))
+                finish=d.get("stop_reason"), model_returned=d.get("model"), search_log=slog)
 
 
 def call_gemini(m, key, prompt, max_tokens, temp):
@@ -779,7 +792,7 @@ def main(argv=None):
             rec.update(response_text=res["text"], reasoning_text=res["reasoning"], tokens_in=res["tokens_in"],
                        tokens_out=res["tokens_out"], latency_s=res["latency_s"], finish_reason=res["finish"],
                        model_returned=res["model_returned"], citations=res["citations"], search_calls=res["search_calls"],
-                       error=None, **parse_response(it, res["text"], shown))
+                       search_log=res.get("search_log"), error=None, **parse_response(it, res["text"], shown))
         else:
             rec.update(response_text=None, error=str(err)[:500], parse_ok=None, parse_method=None, parsed={})
         with wlock:
