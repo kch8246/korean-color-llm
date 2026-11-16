@@ -199,3 +199,17 @@ for hosts in cl.result_hosts:
 for c in ["위키백과", "나무위키", "단어장 사이트(wordrow.kr)", "위키낱말사전", "국립국어원 한국어기초사전", "표준국어대사전·우리말샘", "그 밖의 사이트"]:
     print(f"{c}: 결과 {n_res[c]} ({n_res[c] / total * 100:.1f}%), 응답 {n_resp[c]} ({n_resp[c] / len(cl) * 100:.1f}%)")
 print("합계 결과", total, "응답", len(cl), "그 밖의 사이트 수", len(others))
+
+# ---------------------------------------------------------------- 선택지 위치(사후 점검, 5.1절)
+section("5.1절. S3a 상위어 있음 문항에서 선택지 위치와 상위어 선택률")
+pos = pd.read_csv(R + "s3a_option_position.csv", encoding="utf-8-sig")
+sp = s3a[s3a.variant == "hyper"].merge(pos, on="trial_id")
+sp["after"] = sp.hyper_pos > sp.gold_pos
+print("분석 호출 수", len(sp))
+print("상위어 위치별 선택률", sp.groupby("hyper_pos").chose_hyper.mean().round(3).to_dict())
+def pos_test(x, name):
+    g = x.groupby(["model_label", "item_id", "after"]).chose_hyper.mean().unstack().dropna()
+    it = (g[True] - g[False]).groupby("item_id").mean()
+    print(f"{name}: 상위어가 정답 뒤 {x[x.after].chose_hyper.mean():.3f}, 앞 {x[~x.after].chose_hyper.mean():.3f}, "
+          f"문항 {len(it)}개, 짝지은 차이 {it.mean():.3f}, p = {perm_p(it.values, unit=360000):.3g}")
+pos_test(sp, "10개 모델"); pos_test(sp[sp.model_label == "gpt-4o"], "GPT-4o"); pos_test(sp[sp.model_label != "gpt-4o"], "GPT-4o 제외 9개")
